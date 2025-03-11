@@ -1,6 +1,6 @@
 # CS 682 - Neural Networks: A Modern Introduction  
 📍 **University of Massachusetts Amherst**  
-📆 **Spring 2025**  
+📆 **Fall 2023**  
 
 ## 📖 Course Overview  
 CS 682 covers the theoretical foundations and practical applications of **neural networks and deep learning**. The course introduces **multilayer perceptrons (MLPs), convolutional neural networks (CNNs), recurrent neural networks (RNNs), transformers**, and more. Students will work with **PyTorch**, build deep learning models, and explore recent advancements in AI.  
